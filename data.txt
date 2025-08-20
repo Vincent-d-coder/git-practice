@@ -1,3 +1,4 @@
-Name: Vincent
-Age: 25
+Name: Vincent Omotuyole Ore
+Age: 29
 Favorite Color: Grey
+Build: Muscular
